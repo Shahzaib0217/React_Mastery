@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "phone": "+1234567890",
+      "address": "123 Main St, Springfield, IL"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "phone": "+0987654321",
+      "address": "456 Elm St, Springfield, IL"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alicejohnson@example.com",
+      "phone": "+1122334455",
+      "address": "789 Oak St, Springfield, IL"
+    },
+    {
+      "id": 4,
+      "name": "Bob Brown",
+      "email": "bobbrown@example.com",
+      "phone": "+1222333444",
+      "address": "101 Pine St, Springfield, IL"
+    },
+    {
+      "id": "8392",
+      "name": "Ali",
+      "email": "afraz@foomotion.io",
+      "phone": "213321321321231321",
+      "address": "saddsdassdasadsad"
+    },
+    {
+      "0": {
+        "id": "0c73",
+        "name": "Shahzaib",
+        "email": "asdasdasdasd@dasd.com",
+        "phone": "4324323243",
+        "address": "sadsadsadasdsdvxcxc"
+      },
+      "name": "fyhy",
+      "email": "gjm@g.n",
+      "phone": "213321321321231321",
+      "address": "gngn ",
+      "id": "0c73"
+    },
+    {
+      "id": "2ebb",
+      "name": "Ali",
+      "email": "afraz@foomotion.io",
+      "phone": "4324323243",
+      "address": "lkkllk"
+    }
+  ]
+}
